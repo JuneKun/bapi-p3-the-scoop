@@ -1,4 +1,10 @@
 // database is let instead of const to allow us to modify it in test.js
+
+//require npm install to run test
+//require npm write-yaml
+//require npm js-yaml
+
+
 let database = {
   users: {},
   articles: {},
